@@ -1,0 +1,4 @@
+com\example\tp7\controllers\ProductController.class
+com\example\tp7\models\Product.class
+com\example\tp7\repositories\ProductRepository.class
+com\example\tp7\Tp7Application.class
